@@ -7,4 +7,5 @@ public class User {
     private Integer age;
     private String tickname;
     private String shixizaide;
+    private String address; //主机
 }
