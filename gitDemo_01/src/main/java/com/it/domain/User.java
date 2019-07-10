@@ -6,5 +6,4 @@ public class User {
     private String sex;
     private Integer age;
     private String tickname;
-    private  String address;
 }
